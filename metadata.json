@@ -1,0 +1,6 @@
+{
+  "name": "Wealth Tracker",
+  "description": "Offline personal finance and wealth tracker with dynamic net worth, portfolio analytics, expense tracking, and backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
